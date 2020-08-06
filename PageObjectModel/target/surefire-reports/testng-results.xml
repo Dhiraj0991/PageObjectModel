@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="30383" started-at="2020-08-06T03:41:00Z" finished-at="2020-08-06T03:41:30Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="30383" started-at="2020-08-06T03:41:00Z" finished-at="2020-08-06T03:41:30Z">
+      <class name="com.pujaSeleniumLearning.tests.GoogleTest">
+        <test-method status="PASS" signature="startReport()[pri:0, instance:com.pujaSeleniumLearning.tests.GoogleTest@dd3b207]" name="startReport" is-config="true" duration-ms="194" started-at="2020-08-06T03:40:59Z" finished-at="2020-08-06T03:41:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startReport -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.pujaSeleniumLearning.tests.GoogleTest@dd3b207]" name="setup" is-config="true" duration-ms="8378" started-at="2020-08-06T03:41:00Z" finished-at="2020-08-06T03:41:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="intialization()[pri:0, instance:com.pujaSeleniumLearning.tests.GoogleTest@dd3b207]" name="intialization" is-config="true" duration-ms="88" started-at="2020-08-06T03:41:08Z" finished-at="2020-08-06T03:41:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- intialization -->
+        <test-method status="PASS" signature="createReportTest(java.lang.reflect.Method)[pri:0, instance:com.pujaSeleniumLearning.tests.GoogleTest@dd3b207]" name="createReportTest" is-config="true" duration-ms="5" started-at="2020-08-06T03:41:08Z" finished-at="2020-08-06T03:41:08Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.pujaSeleniumLearning.tests.GoogleTest.search21() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createReportTest -->
+        <test-method status="PASS" signature="search21()[pri:1, instance:com.pujaSeleniumLearning.tests.GoogleTest@dd3b207]" name="search21" duration-ms="7029" started-at="2020-08-06T03:41:08Z" finished-at="2020-08-06T03:41:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- search21 -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:com.pujaSeleniumLearning.tests.GoogleTest@dd3b207]" name="getResult" is-config="true" duration-ms="15" started-at="2020-08-06T03:41:15Z" finished-at="2020-08-06T03:41:15Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=search21 status=SUCCESS method=GoogleTest.search21()[pri:1, instance:com.pujaSeleniumLearning.tests.GoogleTest@dd3b207] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method status="PASS" signature="search2()[pri:2, instance:com.pujaSeleniumLearning.tests.GoogleTest@dd3b207]" name="search2" duration-ms="3761" started-at="2020-08-06T03:41:15Z" finished-at="2020-08-06T03:41:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- search2 -->
+        <test-method status="PASS" signature="createReportTest(java.lang.reflect.Method)[pri:0, instance:com.pujaSeleniumLearning.tests.GoogleTest@dd3b207]" name="createReportTest" is-config="true" duration-ms="0" started-at="2020-08-06T03:41:15Z" finished-at="2020-08-06T03:41:15Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.pujaSeleniumLearning.tests.GoogleTest.search2() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createReportTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.pujaSeleniumLearning.tests.GoogleTest@dd3b207]" name="tearDown" is-config="true" duration-ms="11074" started-at="2020-08-06T03:41:19Z" finished-at="2020-08-06T03:41:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:com.pujaSeleniumLearning.tests.GoogleTest@dd3b207]" name="getResult" is-config="true" duration-ms="0" started-at="2020-08-06T03:41:19Z" finished-at="2020-08-06T03:41:19Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=search2 status=SUCCESS method=GoogleTest.search2()[pri:2, instance:com.pujaSeleniumLearning.tests.GoogleTest@dd3b207] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+      </class> <!-- com.pujaSeleniumLearning.tests.GoogleTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
